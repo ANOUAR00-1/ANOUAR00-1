@@ -1,4 +1,17 @@
+## 👋 Hi, I'm **Anouar Bentahar**
 
+🚀 **Full-Stack Developer** specialized in building **scalable SaaS, web & mobile applications**.
+
+I help startups, freelancers, and businesses turn ideas into **production-ready products** using modern technologies, clean architecture, and best practices.
+
+💡 **What I focus on:**
+- SaaS Architecture & Dashboards  
+- Authentication, Roles & Permissions  
+- API Design & Integrations  
+- Performance, Security & Testing  
+- Clean Code & Maintainability  
+
+ Open to **Freelance / Remote opportunities
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:b.anouar.officiel@gmail.com) 
 
@@ -16,6 +29,36 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ANOUAR00-1&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ANOUAR00-1&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+📌 Featured Projects
+
+### 🔹 SaaS Dashboard Platform
+- Authentication & Roles
+- Payments & Subscriptions
+- Admin Panel
+- REST API
+- CI/CD Deployment
+
+🛠 **Tech:** React, Node.js, PostgreSQL, Docker  
+🔗 **Demo:** Coming soon
+
+---
+
+### 🔹 AI-Powered Web Application
+- Smart automation
+- Secure API integration
+- Optimized performance
+
+🛠 **Tech:** Next.js, TypeScript, Firebase  
+🔗 **Demo:** Coming soon
+
+📬 Let's Work Together
+If you're looking for a developer who:
+- Thinks in **products**, not just code  
+- Writes **clean & scalable** solutions  
+- Delivers **real business value**
+
+👉 **Feel free to contact me
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=ANOUAR00-1&icon=0&color=0)](https://visitcount.itsvg.in)
