@@ -1,10 +1,10 @@
-## 👋 Hi, I'm **Anouar Bentahar**
+##  Hi, I'm **Anouar Bentahar**
 
-🚀 **Full-Stack Developer** specialized in building **scalable SaaS, web & mobile applications**.
+  **Full-Stack Developer** specialized in building **scalable SaaS, web & mobile applications**.
 
 I help startups, freelancers, and businesses turn ideas into **production-ready products** using modern technologies, clean architecture, and best practices.
 
-💡 **What I focus on:**
+  **What I focus on:**
 - SaaS Architecture & Dashboards  
 - Authentication, Roles & Permissions  
 - API Design & Integrations  
@@ -22,7 +22,7 @@ I help startups, freelancers, and businesses turn ideas into **production-ready 
 ![](https://nirzak-streak-stats.vercel.app/?user=ANOUAR00-1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANOUAR00-1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ANOUAR00-1&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
@@ -31,7 +31,7 @@ I help startups, freelancers, and businesses turn ideas into **production-ready 
 ---
 
 
-📌 Featured Projects
+  Featured Projects
 
 ### 🔹 SaaS Dashboard Platform
 - Authentication & Roles
@@ -40,12 +40,12 @@ I help startups, freelancers, and businesses turn ideas into **production-ready 
 - REST API
 - CI/CD Deployment
 
-🛠 **Tech:** React, Node.js, PostgreSQL, Docker  
+🛠 Tech:** React, Node.js, PostgreSQL, Docker  
 🔗 **Demo:** Coming soon
 
 ---
 
-### 🔹 AI-Powered Web Application
+  AI-Powered Web Application
 - Smart automation
 - Secure API integration
 - Optimized performance
@@ -53,7 +53,7 @@ I help startups, freelancers, and businesses turn ideas into **production-ready 
 🛠 **Tech:** Next.js, TypeScript, Firebase  
 🔗 **Demo:** Coming soon
 
-📬 Let's Work Together
+  Let's Work Together
 If you're looking for a developer who:
 - Thinks in **products**, not just code  
 - Writes **clean & scalable** solutions  
