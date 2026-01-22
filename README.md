@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm **Anouar Bentahar**
 
-### 🚀 Full-Stack Developer | SaaS Architect | Problem Solver
+###  Full-Stack Developer | SaaS Architect | Problem Solver
 
 I specialize in building **scalable SaaS, web & mobile applications** that transform ideas into production-ready products. With a focus on modern technologies, clean architecture, and industry best practices, I help startups, freelancers, and businesses deliver exceptional digital experiences.
 
