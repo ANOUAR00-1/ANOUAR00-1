@@ -4,171 +4,270 @@
 </picture>
 
 <br>
-## 👋 Hi, I'm **Anouar Bentahar**
+# ANOUAR BENTAHAR — GitHub Profile README
 
-###  Full-Stack Developer | SaaS Architect | Problem Solver
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="ANOUAR00-1's GitHub profile" src="dark_mode.svg" />
+</picture>
 
-I specialize in building **scalable SaaS, web & mobile applications** that transform ideas into production-ready products. With a focus on modern technologies, clean architecture, and industry best practices, I help startups, freelancers, and businesses deliver exceptional digital experiences.
+<br/>
 
----
+# 👋 Hi, I'm Anouar Bentahar
 
-### 💡 What I Do
+### Full-Stack Developer | SaaS Architect | AI Systems Builder
 
-#### 🎯 Core Expertise
-- **SaaS Architecture & Dashboards** - Designing and implementing scalable multi-tenant solutions
-- **Authentication & Authorization** - Building secure role-based access control systems
-- **API Design & Integration** - Creating RESTful and GraphQL APIs with comprehensive documentation
-- **Performance Optimization** - Ensuring applications run efficiently at scale
-- **Security Implementation** - Implementing industry-standard security practices
-- **Quality Assurance** - Writing comprehensive tests and maintaining code quality
+I'm a product-oriented Full-Stack Developer specialized in building **SaaS platforms, CRM systems, AI-powered applications, and scalable web/mobile products**.
 
-#### 🛠 Development Philosophy
-- Writing **clean, maintainable, and well-documented code**
-- Following **SOLID principles** and design patterns
-- Implementing **CI/CD pipelines** for automated deployment
-- Focusing on **user experience** and **accessibility**
-- Ensuring **scalability** and **performance** from day one
+I work across the full product lifecycle — from architecture and database design to authentication, APIs, payments, real-time features, deployment, performance, and user experience.
+
+My main stack includes **TypeScript, React, Next.js, Node.js, Laravel, PostgreSQL**, and modern AI integrations.
 
 ---
 
-### 🌐 Connect With Me
+##  What I Do
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:b.anouar.officiel@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-
----
-
-### 💻 Tech Stack
-
-#### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-#### ⚙️ Backend Development
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-#### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-#### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-#### 🛠 Tools & Development
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-
-#### 🎨 Design
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+*  Design scalable **SaaS and multi-tenant architectures**
+*  Build modern applications with **React, Next.js & TypeScript**
+*  Develop robust backends with **Node.js & Laravel**
+*  Design relational and NoSQL database architectures
+*  Implement authentication, authorization, RBAC and API security
+*  Integrate **LLMs, AI agents, MCP and tool calling**
+*  Build payment and subscription systems with **Stripe**
+*  Optimize application performance and scalability
+*  Build cross-platform applications with **React Native / Expo**
+*  Work with Docker, Redis, CI/CD and production infrastructure
 
 ---
 
-### 📊 GitHub Stats
+##  Professional Experience
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANOUAR00-1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+### Full-Stack Developer — NexCore Solutions
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ANOUAR00-1&theme=dark&hide_border=false)
+**USA · Freelance · Mar 2026 – Apr 2026**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANOUAR00-1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+* Developed a web platform for an American AI and automation agency using **React 18, TypeScript and Tailwind CSS**.
+* Improved frontend performance through code splitting, SEO optimization and Lighthouse improvements.
+* Implemented modern UI/UX interactions using **GSAP and Framer Motion**.
 
----
+### Full-Stack Developer — GEOREF
 
-### 🏆 GitHub Trophies
+**Freelance · Nov 2025 – Jan 2026**
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ANOUAR00-1&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### 🔝 Top Contributed Repositories
-
-![Top Contributed](https://github-contributor-stats.vercel.app/api?username=ANOUAR00-1&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+* Developed a technical web platform for a company specialized in **geomatics, drone mapping and BIM**.
+* Built a responsive and high-performance interface with **React 18, TypeScript and Tailwind CSS**.
+* Focused on clarity, usability and performance for a professional technical audience.
 
 ---
 
-### 💼 Featured Projects
+##  Featured Projects
 
-#### 🔹 SaaS Dashboard Platform
-A comprehensive, multi-tenant SaaS solution with advanced analytics and user management.
+### ✈️ Aetherline
 
-- ✅ Authentication & Role-Based Access Control
-- ✅ Payment Processing & Subscription Management
-- ✅ Admin Panel with Real-time Analytics
-- ✅ RESTful API with OpenAPI Documentation
-- ✅ Automated CI/CD Deployment Pipeline
+**AI-Powered Full-Stack Airline Reservation Platform**
 
-**🛠 Tech Stack:** React, Node.js, PostgreSQL, Docker, Redis  
-**🔗 Demo:** Coming soon  
-**📦 Repository:** [View Project](#)
+`React 19` `TypeScript` `Node.js` `Prisma` `PostgreSQL` `Stripe` `OAuth` `JWT` `SSE` `AI`
 
----
+* Built a complete airline reservation platform with real-time flight tracking.
+* Integrated **Stripe payments**, OAuth/JWT authentication and RBAC authorization.
+* Developed an AI assistant using a 4-layer architecture:
 
-#### 🔹 AI-Powered Web Application
-An intelligent web application leveraging machine learning for smart automation and data analysis.
+`FAQ → RAG with pgvector → LLM → Tool Calling`
 
-- ✅ Smart Automation & Predictive Analytics
-- ✅ Secure API Integration & Webhooks
-- ✅ Optimized Performance & Caching
-- ✅ Real-time Data Processing
-
-**🛠 Tech Stack:** Next.js, TypeScript, Firebase, OpenAI API  
-**🔗 Demo:** Coming soon  
-**📦 Repository:** [View Project](#)
+* The assistant can query and interact with user reservations in real time.
 
 ---
 
-### 🤝 Let's Work Together
+### 📦 WMS Multi-Tenant
 
-If you're looking for a developer who:
-- Thinks in **products**, not just code
-- Writes **clean & scalable** solutions
-- Delivers **real business value**
+**Mini ERP & Warehouse Management System**
 
-I'd love to hear from you! Whether you have a project in mind or just want to chat about technology, feel free to reach out.
+`Laravel 12` `React 19` `TypeScript` `MySQL` `Redis` `Docker` `React Query` `Zustand`
 
-👉 **[Contact Me](mailto:b.anouar.officiel@gmail.com)**
+* Built a multi-tenant WMS / Mini ERP covering:
+
+  * Inventory
+  * Purchases
+  * Sales
+  * Suppliers
+  * Customers
+  * Billing
+  * Payments
+  * B2B portal
+* Developed a transactional stock engine supporting:
+
+  * Reservations
+  * Transfers
+  * Lots
+  * Unit conversions
+  * Pessimistic locking
+  * Immutable stock movement journal
 
 ---
 
-### 📈 Current Focus
+### 🎓 SmartSchool
 
-- 🔭 Exploring **Serverless Architecture** and **Microservices**
-- 🌱 Learning **Advanced AI/ML Integration** in web applications
-- 💡 Contributing to **Open Source** projects
-- 👯 Looking to collaborate on **innovative SaaS projects**
+**School Management CRM**
+
+`React 19` `TypeScript` `Laravel 12` `Tailwind CSS` `OCR` `Sanctum` `JWT`
+
+* Built a multi-module CRM for:
+
+  * Admissions
+  * Billing
+  * Customer support
+* Developed a Laravel REST API with OCR extraction for invoice data.
+* Implemented security using Sanctum, JWT, rate limiting and application-level protections.
 
 ---
 
-<div align="center">
+### 🎮 GameVault
 
-**⭐ If you like what you see, consider giving a star!**
+**Social Platform for Video Games**
 
-Made with ❤️ by [Anouar Bentahar](https://github.com/ANOUAR00-1)
+`React 18` `Laravel 11` `RAWG API` `PostgreSQL` `TanStack Query`
+
+* Built a social gaming platform powered by the **RAWG API with 500,000+ games**.
+* Implemented advanced state management and optimized data fetching.
+* Designed the PostgreSQL data layer and secured the API using Laravel Sanctum/OAuth.
+* Added full internationalization with RTL support.
+
+---
+
+### 🤖 PixFusion AI Studio
+
+**AI Media Generation SaaS**
+
+`Next.js 15` `TypeScript` `AI APIs` `Stripe` `Auth.js v5` `Neon PostgreSQL`
+
+* Architected a SaaS platform for **AI image and video generation**.
+* Integrated Stripe monetization.
+* Implemented authentication with Auth.js v5.
+* Added persistent generation history using Neon/PostgreSQL.
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+
+### Databases & APIs
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+
+### Mobile
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+##  AI Engineering
+
+I'm actively working with:
+
+* Large Language Model APIs
+* AI Agents
+* MCP — Model Context Protocol
+* Tool Calling
+* Retrieval-Augmented Generation (RAG)
+* `pgvector`
+* Prompt Engineering
+* Groq
+* Llama
+
+---
+
+##  Security
+
+Experience implementing:
+
+* OAuth
+* JWT
+* Laravel Sanctum
+* RBAC
+* Authentication & Authorization
+* Rate Limiting
+* Secure REST APIs
+* Application security best practices
+
+---
+
+##  Education & Certifications
+
+### Education
+
+**Diplôme de Technicien Spécialisé en Développement Digital — Option Full Stack**
+2024 – 2026
+
+**Bac+1 — Sciences économiques et gestion**
+FSJES Ibn Zohr, Agadir · 2022 – 2023
+
+**Baccalauréat Scientifique — SVT**
+2021 – 2022
+
+### Certifications
+
+**Anthropic**
+
+* Claude Code in Action
+* Introduction to Model Context Protocol (MCP)
+* Introduction to Agent Skills
+
+---
+
+##  Languages
+
+* 🇬🇧 **English:** Technical working proficiency
+* 🇫🇷 **French:** Intermediate
+* 🇲🇦 **Arabic:** Native
+
+---
+
+##  GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANOUAR00-1\&show_icons=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANOUAR00-1\&layout=compact\&hide_border=true)
+
+---
+
+##  Connect With Me
+
+ **Portfolio:** [www.anwar.engineer](https://www.anwar.engineer)
+
+ **GitHub:** [ANOUAR00-1](https://github.com/ANOUAR00-1)
+
+ **LinkedIn:** ANOUAR BENTAHAR
+
+ **Email:** [b.anouar.officiel@gmail.com](mailto:b.anouar.officiel@gmail.com)
+
+---
+
+> Building scalable products, clean architectures and intelligent systems.
 
 </div>
