@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <img alt="ANOUAR00-1's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+<br>
 ## 👋 Hi, I'm **Anouar Bentahar**
 
 ###  Full-Stack Developer | SaaS Architect | Problem Solver
