@@ -105,37 +105,6 @@ Experience implementing:
 
 ---
 
-##  Education & Certifications
-
-### Education
-
-**Diplôme de Technicien Spécialisé en Développement Digital — Option Full Stack**
-2024 – 2026
-
-**Bac+1 — Sciences économiques et gestion**
-FSJES Ibn Zohr, Agadir · 2022 – 2023
-
-**Baccalauréat Scientifique — SVT**
-2021 – 2022
-
-### Certifications
-
-**Anthropic**
-
-* Claude Code in Action
-* Introduction to Model Context Protocol (MCP)
-* Introduction to Agent Skills
-
----
-
-##  Languages
-
-* 🇬🇧 **English:** Technical working proficiency
-* 🇫🇷 **French:** Intermediate
-* 🇲🇦 **Arabic:** Native
-
----
-
 ##  GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANOUAR00-1\&show_icons=true\&hide_border=true)
