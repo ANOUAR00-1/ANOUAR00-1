@@ -6,7 +6,7 @@
 
 <br/>
 
-# 👋 Hi, I'm Anouar Bentahar
+#  Hi, I'm Anouar Bentahar
 
 ### Full-Stack Developer | SaaS Architect | AI Systems Builder
 
@@ -33,112 +33,8 @@ My main stack includes **TypeScript, React, Next.js, Node.js, Laravel, PostgreSQ
 
 ---
 
-##  Professional Experience
 
-### Full-Stack Developer — NexCore Solutions
 
-**USA · Freelance · Mar 2026 – Apr 2026**
-
-* Developed a web platform for an American AI and automation agency using **React 18, TypeScript and Tailwind CSS**.
-* Improved frontend performance through code splitting, SEO optimization and Lighthouse improvements.
-* Implemented modern UI/UX interactions using **GSAP and Framer Motion**.
-
-### Full-Stack Developer — GEOREF
-
-**Freelance · Nov 2025 – Jan 2026**
-
-* Developed a technical web platform for a company specialized in **geomatics, drone mapping and BIM**.
-* Built a responsive and high-performance interface with **React 18, TypeScript and Tailwind CSS**.
-* Focused on clarity, usability and performance for a professional technical audience.
-
----
-
-##  Featured Projects
-
-### ✈️ Aetherline
-
-**AI-Powered Full-Stack Airline Reservation Platform**
-
-`React 19` `TypeScript` `Node.js` `Prisma` `PostgreSQL` `Stripe` `OAuth` `JWT` `SSE` `AI`
-
-* Built a complete airline reservation platform with real-time flight tracking.
-* Integrated **Stripe payments**, OAuth/JWT authentication and RBAC authorization.
-* Developed an AI assistant using a 4-layer architecture:
-
-`FAQ → RAG with pgvector → LLM → Tool Calling`
-
-* The assistant can query and interact with user reservations in real time.
-
----
-
-### 📦 WMS Multi-Tenant
-
-**Mini ERP & Warehouse Management System**
-
-`Laravel 12` `React 19` `TypeScript` `MySQL` `Redis` `Docker` `React Query` `Zustand`
-
-* Built a multi-tenant WMS / Mini ERP covering:
-
-  * Inventory
-  * Purchases
-  * Sales
-  * Suppliers
-  * Customers
-  * Billing
-  * Payments
-  * B2B portal
-* Developed a transactional stock engine supporting:
-
-  * Reservations
-  * Transfers
-  * Lots
-  * Unit conversions
-  * Pessimistic locking
-  * Immutable stock movement journal
-
----
-
-### 🎓 SmartSchool
-
-**School Management CRM**
-
-`React 19` `TypeScript` `Laravel 12` `Tailwind CSS` `OCR` `Sanctum` `JWT`
-
-* Built a multi-module CRM for:
-
-  * Admissions
-  * Billing
-  * Customer support
-* Developed a Laravel REST API with OCR extraction for invoice data.
-* Implemented security using Sanctum, JWT, rate limiting and application-level protections.
-
----
-
-### 🎮 GameVault
-
-**Social Platform for Video Games**
-
-`React 18` `Laravel 11` `RAWG API` `PostgreSQL` `TanStack Query`
-
-* Built a social gaming platform powered by the **RAWG API with 500,000+ games**.
-* Implemented advanced state management and optimized data fetching.
-* Designed the PostgreSQL data layer and secured the API using Laravel Sanctum/OAuth.
-* Added full internationalization with RTL support.
-
----
-
-### 🤖 PixFusion AI Studio
-
-**AI Media Generation SaaS**
-
-`Next.js 15` `TypeScript` `AI APIs` `Stripe` `Auth.js v5` `Neon PostgreSQL`
-
-* Architected a SaaS platform for **AI image and video generation**.
-* Integrated Stripe monetization.
-* Implemented authentication with Auth.js v5.
-* Added persistent generation history using Neon/PostgreSQL.
-
----
 
 ## 🧰 Tech Stack
 
